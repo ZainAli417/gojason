@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [61.5, 29.5],
+            [66.5, 29.5],
+            [66.5, 33.5],
+            [61.5, 33.5],
+            [61.5, 29.5]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Baluchistan",
+        "fill": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72, 32],
+            [75, 32],
+            [75, 35],
+            [72, 35],
+            [72, 32]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Khyber Pakhtunkhwa",
+        "fill": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [72, 28],
+            [75, 28],
+            [75, 32],
+            [72, 32],
+            [72, 28]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Punjab",
+        "fill": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [67, 24],
+            [70, 24],
+            [70, 28],
+            [67, 28],
+            [67, 24]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sindh",
+        "fill": "#FF0000"
+      }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [73, 33.5],
+            [74, 33.5],
+            [74, 34],
+            [73, 34],
+            [73, 33.5]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Islamabad",
+        "fill": "#FF0000"
+      }
+    }
+
+
+  ]
+}
